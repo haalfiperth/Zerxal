@@ -1,0 +1,3 @@
+local Arguments = {"UpdateMousePosI", "UpdateMousePosI2", "UpdateMousePos", "GetMousePos", "MousePos", "MOUSE", "MousePosUpdate", "Mouse", "MousePosUpdate"}
+
+return Arguments
