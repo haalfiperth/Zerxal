@@ -2,7 +2,7 @@ local Library = {};
 do
 	Library = {
 		Open = true;
-		Accent = Color3.fromRGB(93, 62, 152);
+		Accent = Color3.fromRGB(189, 172,255);
 		PageAmount = 0;
 		Pages = {};
 		Sections = {};
