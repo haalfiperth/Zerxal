@@ -6286,7 +6286,7 @@ function Neverlose_Main:Window(config)
 
         Get_ALC:Set(Get_Load)
 
-        game.CoreGui:WaitForChild("Neverlose1").MainFrame.Visible = Get_Load
+        game.CoreGui:WaitForChild("Neverlose1").MainFrame.Visible = true
 
         Neverlose_Main:Notify({
             Title = "Welcome",
