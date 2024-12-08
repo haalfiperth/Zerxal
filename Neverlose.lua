@@ -915,7 +915,7 @@ function Neverlose_Main:Window(config)
     MainFrame.BorderColor3 = Color3.fromRGB(9, 9, 13)
     MainFrame.BorderSizePixel = 0
     MainFrame.Position = UDim2.new(0.346565127, 0, 0.107407406, 0)
-    MainFrame.Size = UDim2.new(0, 321, 0, 341) -- approximately half the size
+    MainFrame.Size = UDim2.new(0, 643, 0, 682)
     MainFrame.ZIndex = 0
 
     function Neverlose_Main:VisMain(v)
